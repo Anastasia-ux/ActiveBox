@@ -67,7 +67,6 @@ li {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: ;
     justify-content: center;
 }
 .section-headline {
@@ -76,7 +75,6 @@ li {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: ;
 }
 h1 {
     font-size: 65px; 
@@ -89,7 +87,6 @@ h1 {
 .section-text {
     height: 110px;
     width: 970px;
-    background-color: ;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -121,7 +118,6 @@ p {
     align-items: center;
     border-radius: 3px;
     font-weight: 600;
-    transition: background .1s linear;
 }
 .link:hover {
     background-color: #da3838;
