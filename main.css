@@ -74,7 +74,7 @@ li {
     justify-content: center;
     align-items: center;
 }
-h1 {
+.section-headline h1 {
     font-size: 65px; 
     text-align: center;
     color: white;
@@ -88,7 +88,7 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
-   /* background-color: aqua;*/
+    
 }
 .section-text p {
     color: white;
